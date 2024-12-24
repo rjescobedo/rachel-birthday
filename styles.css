@@ -3,6 +3,7 @@ body {
     background-image: url("images/balloons-background.jpeg");
     background-size: contain;
     color: #fe0fb4;
+    font-family: "Happy Monkey", serif;
 }
 
 #bday-age, #bday-date {
