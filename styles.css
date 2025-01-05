@@ -67,6 +67,21 @@ body {
     box-shadow: 5px 5px 4px 0 rgba(0, 0, 0, 0.2);
 }
 
+.custom-iframe {
+    margin: 20px auto;
+    border: 6px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+@media (min-width: 1200px) {
+    .custom-iframe {
+        width: 560px;
+        height: 315px;
+    }
+    
+}
+
 #gift-img-happy:hover {
     background-image: url("https://media.giphy.com/media/u23zXEvNsIbfO/giphy.gif?cid=790b7611ow2a478cdlmcryfi22jpzm8ufqd2cw57j50w4h2o&ep=v1_gifs_search&rid=giphy.gif&ct=g");
 }
