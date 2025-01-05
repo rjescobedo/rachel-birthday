@@ -12,6 +12,7 @@ body {
 
 .header-title {
     font-size: 2.5rem;
+    text-shadow: 0 0 2px black;
 }
 
 #bff-img {
@@ -43,7 +44,7 @@ body {
 
 .gift-section {
     margin-top: 50px;
-    text-shadow: 0 0 1px white;
+    text-shadow: 0 0 2px black;
 }
 
 .gift-title {
